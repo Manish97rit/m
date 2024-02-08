@@ -12,14 +12,14 @@ body {
   margin-left: 150px;
   transition: 0.5s;
   margin-top: 30px;
-  width: 50%;
+  width: 20%;
 }
 
 #yesButton {
   position: absolute;
   margin-right: 150px;
   margin-top: 30px;
-   width: 50%;
+   width: 20%;
 }
 
 .header_text {
